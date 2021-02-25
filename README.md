@@ -13,6 +13,12 @@
     Good point, but no.
     I want to follow the hype train, meaning that the purpose of this 'readme.md', besides bragging GitHub stats and pseudo-knowledge on languages which I made the "hello world" tutorial, is to consolidate the articles and recorded talks that I did across the map and filter them by language.
 
+
+![Python 3](https://img.shields.io/badge/python-3-blue.svg) ![JS](https://img.shields.io/badge/js-vanilla-yellow.svg) ![vuejs 3](https://img.shields.io/badge/vuejs-3-green.svg) [![medium](https://img.shields.io/badge/medium-articles-red.svg)](https://medium.com/@leonardogalani)
+
+
+
+
 ### ./en_us/articles/
 
 - [Best practices for test automation](https://medium.com/assertqualityassurance/best-practices-for-test-automation-536e7a94ded4)

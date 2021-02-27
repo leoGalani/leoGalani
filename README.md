@@ -1,4 +1,4 @@
-<image place holder>
+![](https://github.com/leoGalani/leoGalani/blob/main/leo_github.png)
 
 ### ./en_us/
 

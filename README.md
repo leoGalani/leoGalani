@@ -32,12 +32,14 @@
 - [Men, we need to talk about women in engineering…](https://medium.com/@leonardogalani/men-we-need-to-talk-about-women-in-engineering-578729935f01)
 - [Thoughts about Test Automation implementation.](https://medium.com/assertqualityassurance/thoughts-about-test-automation-implementation-d516629438ac)
 - [Code Review as a Test Strategy?](https://medium.com/assertqualityassurance/drops-code-review-as-a-test-strategy-ab7eea5dbb97)
+- [Why you should not use cypress for API test](https://medium.com/assertqualityassurance/why-you-should-not-use-cypress-for-api-tests-562aca637563)
 
 ### ./en_us/talks
 
 - I'm too shy to do speaks in english.
 
 ### ./pt_br/artigos/
+- [Automatizar tests piora a qualidade da sua entrega](https://medium.com/assertqualityassurance/automatizar-testes-piora-a-qualidade-da-sua-entrega-89e312c4adbc)
 - [Vamos falar sobre OverEngineering?](https://medium.com/assertqualityassurance/vamos-falar-sobre-overengineering-4271ecc9c65f)
 - [Plano de Teste, para que te quero?](https://medium.com/assertqualityassurance/plano-de-teste-para-que-te-quero-5b8f4274bdf2)
 - [Tutorial de pytest para iniciantes.](https://medium.com/assertqualityassurance/tutorial-de-pytest-para-iniciantes-cbdd81c6d761)

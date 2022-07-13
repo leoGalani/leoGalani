@@ -34,6 +34,7 @@
 - [Code Review as a Test Strategy?](https://medium.com/assertqualityassurance/drops-code-review-as-a-test-strategy-ab7eea5dbb97)
 - [Why you should not use cypress for API test](https://medium.com/assertqualityassurance/why-you-should-not-use-cypress-for-api-tests-562aca637563)
 - [AWS Lambda Integration Test — Easier than you might think.](https://medium.com/assertqualityassurance/aws-lambda-integration-test-easier-than-you-might-think-a66a9d600916)
+- [Attach your repository E2E tests into your deploy job pipeline](https://medium.com/assertqualityassurance/attach-your-e2e-api-tests-on-your-github-actions-jobs-pipeline-e34ae14eb143)
 
 ### ./en_us/talks
 

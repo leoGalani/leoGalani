@@ -7,18 +7,15 @@
     My name is Leonardo Galani, and this is my very own myspac... GITHUB PROFILE PAGE...
     this brings me back some memories...
 
-    So I realized that I did some stuff for the QA and DEV community that was kind of
-    scattered around the internet. 
-    Some of them are lost forever because I'm a bit lazy sometimes (that is why I 
-    automate my tests), but some of them I could gather on my medium account.
+    I realized that I did some stuff for the QA and DEV community that was
+    scattered around the internet.
+    Some of them are lost forever because I'm a bit lazy (that is why I 
+    automate my tests), but some of them I recover and post on my medium account.
 
     You might ask, "Why not just put your medium @leonardogalani link?".
 
-    Good point, but no.
-    I want to follow the hype train, meaning that the purpose of this 'readme.md',
-    besides bragging GitHub stats and pseudo-knowledge on
-    languages which I made the "hello world" tutorial, is to consolidate the 
-    articles and recorded talks that I did across the map and filter them by language.
+    Good point, but no. I want to follow the hype train.
+    Also, I wanted to consolidate all the articles and recorded talks that I did across the map and filter them by language.
 
 
 ![Python 3](https://img.shields.io/badge/python-3-blue.svg) ![JS](https://img.shields.io/badge/js-vanilla-yellow.svg) ![vuejs 3](https://img.shields.io/badge/vuejs-3-green.svg) [![medium](https://img.shields.io/badge/medium-articles-red.svg)](https://medium.com/@leonardogalani)
